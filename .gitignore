@@ -1,0 +1,23 @@
+# IDE and OS
+.idea
+.vscode
+.mc
+.settings
+.subversion
+.buildpath
+.classpath
+.cproject
+.loadpath
+.metadata
+.pmt
+.env
+.project
+$RECYCLE.BIN
+.DS_Store
+Desktop.ini
+ehthumbs.db
+Thumbs.db
+node_modules
+npm-debug.log
+yarn-error.log
+
